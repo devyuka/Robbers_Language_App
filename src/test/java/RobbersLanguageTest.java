@@ -17,7 +17,12 @@ public class RobbersLanguageTest {
         return Stream.of(
                 arguments("ham", "hijamon"),
                 arguments("joy", "jikoyuz"),
-                arguments("aieou", "aieou")
+                arguments("aieou", "aieou"),
+                arguments("ouz", "ouzuz"),
+                arguments("zzz", "zuzzuzzuz"),
+                arguments("cb", "cadbac"),
+                arguments("au", "au"),
+                arguments("jjj", "jikjikjik")
         );
     }
 }
