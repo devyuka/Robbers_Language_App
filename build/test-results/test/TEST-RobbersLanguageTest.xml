@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobbersLanguageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-12T02:50:58" hostname="LAPTOP-KG6ER3G0" time="0.049">
+  <properties/>
+  <testcase name="replaceLettersTest(String, String)[1]" classname="RobbersLanguageTest" time="0.039"/>
+  <testcase name="replaceLettersTest(String, String)[2]" classname="RobbersLanguageTest" time="0.002"/>
+  <testcase name="replaceLettersTest(String, String)[3]" classname="RobbersLanguageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
